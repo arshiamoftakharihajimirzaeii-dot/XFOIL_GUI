@@ -23,4 +23,5 @@ A Python-based graphical interface for running and visualizing **XFOIL airfoil a
 
 ## Run
 ```bash
+pip install -r requirements.txt
 python main.py
