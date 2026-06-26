@@ -1,4 +1,4 @@
-# XFOIL Advanced GUI
+# XFOIL GUI
 
 A Python-based graphical interface for running and visualizing **XFOIL airfoil analysis**.
 
