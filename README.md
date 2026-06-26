@@ -19,6 +19,7 @@ A Python-based graphical interface for running and visualizing **XFOIL airfoil a
 - pandas  
 - matplotlib  
 - XFOIL executable (`xfoil.exe`)
+- download xfoil : https://web.mit.edu/drela/Public/web/xfoil/
 
 ## Run
 ```bash
